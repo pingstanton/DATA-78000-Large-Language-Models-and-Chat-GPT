@@ -19,3 +19,8 @@ https://colab.research.google.com/drive/1HebbqSpe5WXT45j9Oh1y7vOfHk6RO_nw
 
 **Word Vectors Lab – Stanton**
 https://colab.research.google.com/drive/1B2Qy5AzfZEp_wF34yW4Z8S82lF6LtFbT
+
+**Tokeninzation Lab - Stanton for 78000**
+https://colab.research.google.com/drive/1YXfrKuSNtG1HuWTiQ_-Qh87ru276Bwuu
+
+
