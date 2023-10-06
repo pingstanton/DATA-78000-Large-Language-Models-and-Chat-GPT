@@ -7,7 +7,7 @@
 
 **Course Slack Channel:** [78000largelan-ive6005.slack.com](https://78000largelan-ive6005.slack.com/)
 
-**GitHub:** https://github.com/pingstanton
+**GitHub:** [https://github.com/pingstanton](https://github.com/pingstanton/DATA-78000-Large-Language-Models-and-Chat-GPT)
 
 **Completed Labs:** https://pingstanton.commons.gc.cuny.edu/2023/09/21/labs-for-data-78000-large-language-models-and-chat-gpt/
 
