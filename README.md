@@ -10,3 +10,12 @@
 **GitHub:** https://github.com/pingstanton
 
 **Completed Labs:** https://pingstanton.commons.gc.cuny.edu/2023/09/21/labs-for-data-78000-large-language-models-and-chat-gpt/
+
+**Prompt Engineering Lab – Stanton for 78000**
+https://colab.research.google.com/drive/1qWsqeooxflEDoIw5kaTOu3iv7A2aC9zd
+
+**Ngrams Lab – Stanton**
+https://colab.research.google.com/drive/1HebbqSpe5WXT45j9Oh1y7vOfHk6RO_nw
+
+**Word Vectors Lab – Stanton**
+https://colab.research.google.com/drive/1B2Qy5AzfZEp_wF34yW4Z8S82lF6LtFbT
