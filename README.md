@@ -23,4 +23,5 @@ https://colab.research.google.com/drive/1B2Qy5AzfZEp_wF34yW4Z8S82lF6LtFbT
 **Tokeninzation Lab - Stanton for 78000**
 https://colab.research.google.com/drive/1YXfrKuSNtG1HuWTiQ_-Qh87ru276Bwuu
 
-
+**BERT Sentiment Via Huggingface – Stanton for 78000**
+https://colab.research.google.com/drive/1OXrTaE6Ot5CCdpjjIKnl5jE4Rp5CD9W5
