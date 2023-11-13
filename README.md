@@ -25,3 +25,7 @@ https://colab.research.google.com/drive/1YXfrKuSNtG1HuWTiQ_-Qh87ru276Bwuu
 
 **BERT Sentiment Via Huggingface – Stanton for 78000**
 https://colab.research.google.com/drive/1OXrTaE6Ot5CCdpjjIKnl5jE4Rp5CD9W5
+
+**Fine Tune LLaMa - Stanton for 78000**
+https://colab.research.google.com/drive/1aAPu6seGLfQAymM-j5-87JFiW2jR8HK-#scrollTo=5BGfh59fIeRP
+
